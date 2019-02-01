@@ -23,5 +23,19 @@ print('Total= $', format(total, ',.2f'), sep='')
 ```
 >The scientists of today think deeply instead of clearly. One must be sane to think clearly, but one can think deeply and be quite insane. -Nikola Tesla
 
+| Item   | Price |
+| ------ | ----: |
+| apples | $1.80 |
+| eggs   | $1.99 |
+| bread  | $2.99 |
+
+* eggs
+* milk
+* bacon
+
+1. Put water and macaroni in bowl.
+2. Microwave for 7 minutes.
+3. Add cheese sauce and margarine
+4. Enjoy!
 
 ~~Markdown is hard.~~
